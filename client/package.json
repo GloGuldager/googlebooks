@@ -1,5 +1,5 @@
 {
-  "name": "mern",
+  "name": "googlebooks",
   "version": "0.1.0",
   "private": true,
   "proxy": "http://localhost:3001/",
@@ -8,7 +8,8 @@
     "react-dom": "^16.6.3",
     "react-scripts": "^2.1.1",
     "react-router-dom": "^4.3.1",
-    "axios": "^0.18.0"
+    "axios": "^0.18.0",
+    "mdbreact": "^4.16.0"
   },
   "scripts": {
     "start": "react-scripts start",
