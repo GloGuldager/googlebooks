@@ -1,5 +1,5 @@
 import React from "react";
-
+import "./SearchForm.css";
 // This file exports the Input, TextArea, and FormBtn components
 
 const SearchForm = props => {
@@ -16,7 +16,7 @@ const SearchForm = props => {
                   onChange={props.handleInputChange}
               />
           </div>
-          <button type="submit" className="submitBtn btn btn-primary" onClick={props.handleFormSubmit}>
+          <button type="submit" className="submitBtn submit" onClick={props.handleFormSubmit}>
               Submit
           </button>
       </form>

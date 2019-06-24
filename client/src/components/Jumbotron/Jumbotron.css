@@ -1,0 +1,10 @@
+.jumbotron {
+  background-image: url("./booksbackground.jpeg");
+  background-size: cover;
+}
+
+h1 {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+
+
+}

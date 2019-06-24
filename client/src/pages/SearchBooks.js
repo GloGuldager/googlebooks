@@ -65,7 +65,7 @@ class SearchBooks extends Component {
     return (
       <Container fluid>
         <Jumbotron>
-          <h1>Search for and Save Books of Interest</h1>
+          {/* <h1>Search for and Save Books of Interest</h1> */}
         </Jumbotron>
         <Container>
         <Row>
