@@ -82,16 +82,14 @@
 
 .bookImage {
   background-size: cover;
-  height: 50%;
-  width: 50%;
-}
-
-.emptyCol {
-
+  padding-right: 10px;
+  height: auto;
+  width: auto;
 }
 
 .bookInfo {
-
+ padding-left: 10px;
+ width: auto;
 }
 
 h3 {
